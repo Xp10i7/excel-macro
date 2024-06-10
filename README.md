@@ -5,8 +5,8 @@ This is a simple data entry and invoice workbook; where data is fed into **Data 
 
 In the **Invoice Template** sheet Vlookup is used at places where *"Customer"* details need to be fetched from the **Table** sheet.
 
-A button is assigned for each of the macros, namely ***Transfer*** and ***Issue Invoice*** to make life easy and to properly utilize the power of macros in excel.
+A button is assigned for each of the macros, namely <ins>***Transfer***</ins> and <ins>***Issue Invoice***</ins> to make life easy and to properly utilize the power of macros in excel.
 
 Below is the working of the macros in action:
 
-
+![Macros execution](/assets/Execution.gif)
